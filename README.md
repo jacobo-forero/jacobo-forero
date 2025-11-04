@@ -6,13 +6,14 @@
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 
 
-- 🌱 I’m currently learning Web Development and other programming languages
+- 🌱 Actualmente estoy aprendiendo desarrollo web y otros lenguajes de programación.
 
-- 📫 How to reach me **dani.jacobof06@gmail.com**
+
+- 📫 Cómo ponerse en contacto conmigo **dani.jacobof06@gmail.com**
 
 <br>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Conéctate conmigo:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/dl-jacobo-forero?utm_source=share_via&utm_content=profile&utm_medium=member_ios" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
@@ -30,7 +31,7 @@
 
 <br>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Lenguajes y herramientas:</h3>
 <p align="left"> 
   <a href="https://www.w3schools.com/css/" target="_blank"
     rel="noreferrer"> <img

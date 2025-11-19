@@ -1,4 +1,4 @@
-<h1 align="center">¡Bienvenido!, Soy Jacobo Forero</h1>
+<h1 align="center">¡Bienvenido! Soy Jacobo Forero</h1>
 <h3 align="center">Desarrollador de Software</h3>
 
 <br>
